@@ -588,7 +588,7 @@
         color: var(--primary);
     }
     
-    .fa-twitter,
+    .fa-x-twitter,
     .fa-facebook-f,
     .fa-youtube,
     .fa-linkedin-in,
@@ -600,8 +600,7 @@
     .fa-phone-alt {
         color: #fff !important;
     }
-    
-    .fa-twitter:hover,
+    .fa-x-twitter:hover,
     .fa-facebook-f:hover,
     .fa-youtube:hover,
     .fa-linkedin-in:hover,
